@@ -11,4 +11,5 @@ Router.map(function () {
 	this.route('dungeon-master');
 	this.route('player');
 	this.route('characters');
+	this.route('character-creation');
 });
